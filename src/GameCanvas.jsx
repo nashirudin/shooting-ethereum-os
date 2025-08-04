@@ -237,7 +237,7 @@ export default function GameCanvas() {
           </button>
 
           <a
-            href={`https://twitter.com/intent/tweet?text=I%20scored%20${score}%20in%20Shooting%20Meteors!%20Play%20here:%20https://your-game-link.vercel.app`}
+            href={`https://twitter.com/intent/tweet?text=I%20scored%20${score}%20in%20Shooting%20Meteors!%20Play%20here:%20https://shooting-ethereum-os.vercel.app/`}
             target="_blank"
             rel="noopener noreferrer"
             style={{
